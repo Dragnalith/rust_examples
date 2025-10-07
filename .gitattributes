@@ -1,0 +1,16 @@
+* text=auto eol=lf
+
+*.a binary
+*.dll binary
+*.dylib binary
+*.exe binary
+*.gif binary
+*.ico binary
+*.jpeg binary
+*.jpg binary
+*.lib binary
+*.obj binary
+*.pdb binary
+*.png binary
+*.rlib binary
+*.so binary
