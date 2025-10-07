@@ -1,5 +1,7 @@
 [workspace]
 members = [
     "structures",
+    "casting",
+    "conversion",
 ]
 resolver = "2"
