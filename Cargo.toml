@@ -3,5 +3,7 @@ members = [
     "structures",
     "casting",
     "conversion",
+    "capturing",
+    "input-parameters",
 ]
 resolver = "2"
